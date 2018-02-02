@@ -2,6 +2,10 @@
 Statistik rekapitulasi dapodik data pegawai tingkat provinsi
 
 
+[![Join the chat at https://gitter.im/dapodik-data-pegawai/Lobby](https://badges.gitter.im/dapodik-data-pegawai/Lobby.svg)](https://gitter.im/dapodik-data-pegawai/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/dapodik-data-pegawai/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/dapodik-data-pegawai/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/bantenprov/dapodik-data-pegawai/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/dapodik-data-pegawai/build-status/master)
+
 
 ## install via composer
 
