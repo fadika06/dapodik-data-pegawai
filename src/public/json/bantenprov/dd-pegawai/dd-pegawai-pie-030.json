@@ -1,0 +1,182 @@
+[
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "Total",
+      "group": "Jumlah",
+      "index": "banten-2017-2018-genap-total-jumlah"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 9291,
+            "name": "Jumlah"
+          },
+          {
+            "value": 5419,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 3872,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SD",
+      "group": "Jumlah",
+      "index": "banten-2017-2018-genap-sd-jumlah"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 263,
+            "name": "Jumlah"
+          },
+          {
+            "value": 1722,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 908,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMP",
+      "group": "Jumlah",
+      "index": "banten-2017-2018-genap-smp-jumlah"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 3093,
+            "name": "Jumlah"
+          },
+          {
+            "value": 1734,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 1359,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMA",
+      "group": "Jumlah",
+      "index": "banten-2017-2018-genap-sma-jumlah"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1721,
+            "name": "Jumlah"
+          },
+          {
+            "value": 950,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 771,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMK",
+      "group": "Jumlah",
+      "index": "banten-2017-2018-genap-smk-jumlah"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1777,
+            "name": "Jumlah"
+          },
+          {
+            "value": 988,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 789,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SLB",
+      "group": "Jumlah",
+      "index": "banten-2017-2018-genap-slb-jumlah"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 70,
+            "name": "Jumlah"
+          },
+          {
+            "value": 25,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 45,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  }
+]
