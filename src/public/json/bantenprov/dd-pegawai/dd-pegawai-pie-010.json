@@ -1,0 +1,152 @@
+[
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "Total",
+      "group": "Jumlah",
+      "index": "banten-2017-2018-genap-total-jumlah"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1.837,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 1.748,
+            "name": "Kab. Tangerang"
+          },
+          {
+            "value": 1.258,
+            "name": "Kab. Serang"
+          },
+          {
+            "value": 1.198,
+            "name": "Kab. Pandeglang"
+          },
+          {
+            "value": 1.033,
+            "name": "Kota tangerang Selatan"
+          },
+          {
+            "value": 998,
+            "name": "Kab. Lebak"
+          },
+          {
+            "value": 704,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 515,
+            "name": "Kota Cilegon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "Total",
+      "group": "Laki-laki",
+      "index": "banten-2017-2018-genap-total-laki-laki"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1.051,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 1.014,
+            "name": "Kab. Tangerang"
+          },
+          {
+            "value": 744,
+            "name": "Kab. Serang"
+          },
+          {
+            "value": 775,
+            "name": "Kab. Pandeglang"
+          },
+          {
+            "value": 556,
+            "name": "Kota tangerang Selatan"
+          },
+          {
+            "value": 640,
+            "name": "Kab. Lebak"
+          },
+          {
+            "value": 370,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 269,
+            "name": "Kota Cilegon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "Total",
+      "group": "Perempuan",
+      "index": "banten-2017-2018-genap-total-perempuan"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 786,
+            "name": "Kota Tangerang"
+          },
+          {
+            "value": 734,
+            "name": "Kab. Tangerang"
+          },
+          {
+            "value": 514,
+            "name": "Kab. Serang"
+          },
+          {
+            "value": 423,
+            "name": "Kab. Pandeglang"
+          },
+          {
+            "value": 477,
+            "name": "Kota tangerang Selatan"
+          },
+          {
+            "value": 358,
+            "name": "Kab. Lebak"
+          },
+          {
+            "value": 334,
+            "name": "Kota Serang"
+          },
+          {
+            "value": 246,
+            "name": "Kota Cilegon"
+          }
+        ]
+      }
+    ]
+  }
+]
