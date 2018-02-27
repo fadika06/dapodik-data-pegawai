@@ -1,6 +1,174 @@
 [
   {
     "xAxis": {
+      "category": "Total",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1748,
+          1014,
+          734
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          998,
+          640,
+          358
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1258,
+          744,
+          514
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1198,
+          775,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1837,
+          1051,
+          786
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1033,
+          556,
+          477
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          704,
+          370,
+          334
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          515,
+          269,
+          246
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
       "category": "SD",
       "region": "Kabupaten",
       "name": "Tangerang",
@@ -16,27 +184,6 @@
           418,
           271,
           147
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SD",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          394,
-          286,
-          108
         ]
       }
     ]
@@ -76,9 +223,30 @@
     "series": [
       {
         "data": [
-          228,
-          182,
-          46
+          488,
+          343,
+          145
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          394,
+          286,
+          108
         ]
       }
     ]
@@ -97,9 +265,9 @@
     "series": [
       {
         "data": [
-          418,
-          271,
-          147
+          533,
+          328,
+          205
         ]
       }
     ]
@@ -160,9 +328,9 @@
     "series": [
       {
         "data": [
-          2.63,
-          1.722,
-          908
+          111,
+          62,
+          49
         ]
       }
     ]
@@ -184,27 +352,6 @@
           612,
           348,
           264
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          408,
-          264,
-          144
         ]
       }
     ]
@@ -254,6 +401,27 @@
   {
     "xAxis": {
       "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          408,
+          264,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -265,9 +433,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
+          593,
+          326,
+          267
         ]
       }
     ]
@@ -286,9 +454,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
+          325,
+          173,
+          152
         ]
       }
     ]
@@ -349,30 +517,9 @@
     "series": [
       {
         "data": [
-          167,
-          74,
-          93
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          183,
-          106,
-          77
+          351,
+          206,
+          145
         ]
       }
     ]
@@ -415,6 +562,27 @@
           226,
           108,
           118
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          183,
+          106,
+          77
         ]
       }
     ]
@@ -528,27 +696,6 @@
     "xAxis": {
       "category": "SMK",
       "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          201,
-          111,
-          90
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kabupaten",
       "name": "Lebak",
       "data": [
         "Jumlah",
@@ -583,6 +730,27 @@
           159,
           87,
           72
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          201,
+          111,
+          90
         ]
       }
     ]
@@ -696,27 +864,6 @@
     "xAxis": {
       "category": "SLB",
       "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          12,
-          8,
-          4
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SLB",
-      "region": "Kabupaten",
       "name": "Lebak",
       "data": [
         "Jumlah",
@@ -727,9 +874,9 @@
     "series": [
       {
         "data": [
-          12,
-          8,
-          4
+          7,
+          5,
+          2
         ]
       }
     ]
@@ -751,6 +898,27 @@
           1,
           1,
           0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          12,
+          8,
+          4
         ]
       }
     ]
