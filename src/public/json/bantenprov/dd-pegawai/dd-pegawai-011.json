@@ -8,7 +8,7 @@
         "semester": "Genap",
         "tingkat": "Total",
         "group": "Jumlah",
-        "index": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -44,7 +44,7 @@
         "semester": "Genap",
         "tingkat": "Total",
         "group": "Laki-laki",
-        "index": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -82,7 +82,7 @@
         "semester": "Genap",
         "tingkat": "Total",
         "group": "Perempuan",
-        "index": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -118,7 +118,7 @@
         "semester": "Genap",
         "tingkat": "SD",
         "group": "Jumlah",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -155,7 +155,7 @@
         "semester": "Genap",
         "tingkat": "SD",
         "group": "Laki-laki",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -193,7 +193,7 @@
         "semester": "Genap",
         "tingkat": "SD",
         "group": "Perempuan",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -232,7 +232,7 @@
         "semester": "Genap",
         "tingkat": "SMP",
         "group": "Jumlah",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -272,7 +272,7 @@
         "semester": "Genap",
         "tingkat": "SMP",
         "group": "Laki-laki",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -313,7 +313,7 @@
         "semester": "Genap",
         "tingkat": "SMP",
         "group": "Perempuan",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -355,7 +355,7 @@
         "semester": "Genap",
         "tingkat": "SMA",
         "group": "Jumlah",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -398,7 +398,7 @@
         "semester": "Genap",
         "tingkat": "SMA",
         "group": "Laki-laki",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -442,7 +442,7 @@
         "semester": "Genap",
         "tingkat": "SMA",
         "group": "Perempuan",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -487,7 +487,7 @@
         "semester": "Genap",
         "tingkat": "SMK",
         "group": "Jumlah",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -533,7 +533,7 @@
         "semester": "Genap",
         "tingkat": "SMK",
         "group": "Laki-laki",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -580,7 +580,7 @@
         "semester": "Genap",
         "tingkat": "SMK",
         "group": "Perempuan",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -617,7 +617,7 @@
         "semester": "Genap",
         "tingkat": "SLB",
         "group": "Jumlah",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -655,7 +655,7 @@
         "semester": "Genap",
         "tingkat": "SLB",
         "group": "Laki-laki",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
@@ -694,7 +694,7 @@
         "semester": "Genap",
         "tingkat": "SLB",
         "group": "Perempuan",
-        "index": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+        "titel": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
         "data": [
           "Kab. Tangerang",
 "Kab. Lebak",
