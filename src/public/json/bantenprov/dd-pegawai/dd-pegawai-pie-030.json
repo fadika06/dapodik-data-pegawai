@@ -1,14 +1,14 @@
 [
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "Total",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-total-jumlah"
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
     },
     "series": [
       {
@@ -31,14 +31,14 @@
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SD",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-sd-jumlah"
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
     },
     "series": [
       {
@@ -61,14 +61,14 @@
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMP",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-smp-jumlah"
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
     },
     "series": [
       {
@@ -91,14 +91,14 @@
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMA",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-sma-jumlah"
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
     },
     "series": [
       {
@@ -121,14 +121,14 @@
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMK",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-smk-jumlah"
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
     },
     "series": [
       {
@@ -151,14 +151,14 @@
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SLB",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-slb-jumlah"
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
     },
     "series": [
       {
