@@ -1,7 +1,184 @@
 [
   {
     "xAxis": {
+      "category": "Total",
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1748,
+          1014,
+          734
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          998,
+          640,
+          358
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1258,
+          744,
+          514
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1198,
+          775,
+          423
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1837,
+          1051,
+          786
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1033,
+          556,
+          477
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          704,
+          370,
+          334
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          515,
+          269,
+          246
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
       "category": "SD",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -23,6 +200,51 @@
   {
     "xAxis": {
       "category": "SD",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          228,
+          182,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          488,
+          343,
+          145
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -44,48 +266,7 @@
   {
     "xAxis": {
       "category": "SD",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          228,
-          182,
-          46
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SD",
-      "region": "Kabupaten",
-      "name": "Serang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          228,
-          182,
-          46
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SD",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -97,9 +278,9 @@
     "series": [
       {
         "data": [
-          418,
-          271,
-          147
+          533,
+          328,
+          205
         ]
       }
     ]
@@ -107,6 +288,7 @@
   {
     "xAxis": {
       "category": "SD",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -128,6 +310,7 @@
   {
     "xAxis": {
       "category": "SD",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -149,6 +332,7 @@
   {
     "xAxis": {
       "category": "SD",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -160,9 +344,9 @@
     "series": [
       {
         "data": [
-          2.63,
-          1.722,
-          908
+          111,
+          62,
+          49
         ]
       }
     ]
@@ -170,6 +354,7 @@
   {
     "xAxis": {
       "category": "SMP",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -191,27 +376,7 @@
   {
     "xAxis": {
       "category": "SMP",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          408,
-          264,
-          144
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -233,6 +398,7 @@
   {
     "xAxis": {
       "category": "SMP",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -254,6 +420,29 @@
   {
     "xAxis": {
       "category": "SMP",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          408,
+          264,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -265,9 +454,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
+          593,
+          326,
+          267
         ]
       }
     ]
@@ -275,6 +464,7 @@
   {
     "xAxis": {
       "category": "SMP",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -286,9 +476,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
+          325,
+          173,
+          152
         ]
       }
     ]
@@ -296,6 +486,7 @@
   {
     "xAxis": {
       "category": "SMP",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -317,6 +508,7 @@
   {
     "xAxis": {
       "category": "SMP",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -338,6 +530,7 @@
   {
     "xAxis": {
       "category": "SMA",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -349,9 +542,9 @@
     "series": [
       {
         "data": [
-          167,
-          74,
-          93
+          351,
+          206,
+          145
         ]
       }
     ]
@@ -359,27 +552,7 @@
   {
     "xAxis": {
       "category": "SMA",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          183,
-          106,
-          77
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -401,6 +574,7 @@
   {
     "xAxis": {
       "category": "SMA",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -422,6 +596,29 @@
   {
     "xAxis": {
       "category": "SMA",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          183,
+          106,
+          77
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -443,6 +640,7 @@
   {
     "xAxis": {
       "category": "SMA",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -464,6 +662,7 @@
   {
     "xAxis": {
       "category": "SMA",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -485,6 +684,7 @@
   {
     "xAxis": {
       "category": "SMA",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -506,6 +706,7 @@
   {
     "xAxis": {
       "category": "SMK",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -527,27 +728,7 @@
   {
     "xAxis": {
       "category": "SMK",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          201,
-          111,
-          90
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -569,6 +750,7 @@
   {
     "xAxis": {
       "category": "SMK",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -590,6 +772,29 @@
   {
     "xAxis": {
       "category": "SMK",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          201,
+          111,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -611,6 +816,7 @@
   {
     "xAxis": {
       "category": "SMK",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -632,6 +838,7 @@
   {
     "xAxis": {
       "category": "SMK",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -653,6 +860,7 @@
   {
     "xAxis": {
       "category": "SMK",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -674,6 +882,7 @@
   {
     "xAxis": {
       "category": "SLB",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -695,27 +904,7 @@
   {
     "xAxis": {
       "category": "SLB",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          12,
-          8,
-          4
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SLB",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -727,9 +916,9 @@
     "series": [
       {
         "data": [
-          12,
-          8,
-          4
+          7,
+          5,
+          2
         ]
       }
     ]
@@ -737,6 +926,7 @@
   {
     "xAxis": {
       "category": "SLB",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -758,6 +948,29 @@
   {
     "xAxis": {
       "category": "SLB",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          12,
+          8,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -779,6 +992,7 @@
   {
     "xAxis": {
       "category": "SLB",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -800,6 +1014,7 @@
   {
     "xAxis": {
       "category": "SLB",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -821,6 +1036,7 @@
   {
     "xAxis": {
       "category": "SLB",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
