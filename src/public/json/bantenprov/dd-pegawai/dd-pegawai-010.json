@@ -1,540 +1,674 @@
 [
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "Total",
+      "group": "Jumlah",
+      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "data": [
+        "Kab. Tangerang",
+        "Kab. Lebak",
+        "Kab. Serang",
+        "Kab. Pandeglang",
+        "Kota Tangerang",
+        "Kota tangerang Selatan",
+        "Kota Serang",
+        "Kota Cilegon"
+
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1748,
+998,
+1258,
+1198,
+1837,
+1033,
+704,
+515
+
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-pegawai",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "Total",
+      "group": "Laki-laki",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "data": [
+        "Kab. Tangerang",
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
+
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1014,
+640,
+744,
+775,
+1051,
+556,
+370,
+269
+
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-pegawai",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "Total",
+      "group": "Perempuan",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "data": [
+        "Kab. Tangerang",
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          734,
+358,
+514,
+423,
+786,
+477,
+334,
+246
+
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SD",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-sd-jumlah",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          533,
           418,
-          488,
-          394,
-          287,
-          228,
-          171,
-          111
+228,
+488,
+394,
+533,
+287,
+171,
+111
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SD",
       "group": "Laki-laki",
-      "index": "banten-2017-2018-genap-sd-laki-laki",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          328,
           271,
-          343,
-          286,
-          157,
-          182,
-          93,
-          62
+182,
+343,
+286,
+328,
+157,
+93,
+62
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+       "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SD",
       "group": "Perempuan",
-      "index": "banten-2017-2018-genap-sd-perempuan",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          205,
           147,
-          145,
-          108,
-          130,
-          46,
-          78,
-          49
+46,
+145,
+108,
+205,
+130,
+78,
+49
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMP",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-smp-jumlah",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          593,
           612,
-          384,
-          408,
-          325,
-          380,
-          224,
-          167
+380,
+384,
+408,
+593,
+325,
+224,
+167
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMP",
       "group": "Laki-laki",
-      "index": "banten-2017-2018-genap-smp-laki-laki",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          326,
           348,
-          205,
-          264,
-          173,
-          238,
-          106,
-          74
+238,
+205,
+264,
+326,
+173,
+106,
+74
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMP",
       "group": "Perempuan",
-      "index": "banten-2017-2018-genap-smp-perempuan",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          267,
           264,
-          179,
-          144,
-          152,
-          142,
-          118,
-          93
+142,
+179,
+144,
+267,
+152,
+118,
+93
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+       "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMA",
-      "group": "jumlah",
-      "index": "banten-2017-2018-genap-sma-jumlah",
+      "group": "Jumlah",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          291,
           351,
-          226,
-          183,
-          240,
-          216,
-          116,
-          98
+216,
+226,
+183,
+291,
+240,
+116,
+98
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMA",
       "group": "Laki-laki",
-      "index": "banten-2017-2018-genap-sma-laki-laki",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          164,
           206,
-          108,
-          106,
-          128,
-          121,
-          64,
-          53
+121,
+108,
+106,
+164,
+128,
+64,
+53
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMA",
       "group": "Perempuan",
-      "index": "banten-2017-2018-genap-sma-perempuan",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          127,
           145,
-          118,
-          77,
-          112,
-          95,
-          52,
-          45
+95,
+118,
+77,
+127,
+112,
+52,
+45
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+     "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMK",
-      "group": "jumlah",
-      "index": "banten-2017-2018-genap-smk-jumlah",
+      "group": "Jumlah",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          410,
           344,
-          159,
-          201,
-          174,
-          167,
-          184,
-          138
+167,
+159,
+201,
+410,
+174,
+184,
+138
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMK",
-      "group": "Laki - laki",
-      "index": "banten-2017-2018-genap-smk-laki-laki",
+      "group": "Laki-laki",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          230,
           185,
-          87,
-          111,
-          97,
-          94,
-          104,
-          80
+94,
+87,
+111,
+230,
+97,
+104,
+80
+
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SMK",
       "group": "Perempuan",
-      "index": "banten-2017-2018-genap-smk-perempuan",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          180,
           159,
-          72,
-          90,
-          77,
-          73,
-          80,
-          58
+73,
+72,
+90,
+180,
+77,
+80,
+58
+
         ]
       }
     ]
   },
+  
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SLB",
-      "group": "jumlah",
-      "index": "banten-2017-2018-genap-slb-jumlah",
+      "group": "Jumlah",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          10,
           23,
-          1,
-          12,
-          7,
-          7,
-          9,
-          1
+7,
+1,
+12,
+10,
+7,
+9,
+1
+
+
         ]
       }
     ]
   },
-  {
+  
+   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SLB",
-      "group": "Laki - laki",
-      "index": "banten-2017-2018-genap-slb-laki-laki",
+      "group": "Laki-laki",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          3,
           4,
-          1,
-          8,
-          1,
-          5,
-          3,
-          0
+5,
+1,
+8,
+3,
+1,
+3,
+0
+
+
+
         ]
       }
     ]
   },
+  
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-pegawai",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "SLB",
       "group": "Perempuan",
-      "index": "banten-2017-2018-genap-slb-perempuan",
+      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
       "data": [
-        "Kota Tangerang",
         "Kab. Tangerang",
-        "Kab. Serang",
-        "Kab. Pandeglang",
-        "Kota tangerang Selatan",
-        "Kab. Lebak",
-        "Kota Serang",
-        "Kota Cilegon"
+"Kab. Lebak",
+"Kab. Serang",
+"Kab. Pandeglang",
+"Kota Tangerang",
+"Kota tangerang Selatan",
+"Kota Serang",
+"Kota Cilegon"
       ]
     },
     "series": [
       {
         "data": [
-          7,
           19,
-          0,
-          4,
-          6,
-          2,
-          6,
-          1
+2,
+0,
+4,
+7,
+6,
+6,
+1
+
         ]
       }
     ]
