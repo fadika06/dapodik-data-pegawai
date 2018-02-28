@@ -8,7 +8,7 @@
       "semester": "Genap",
       "tingkat": "Total",
       "group": "Jumlah",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Total Pegawai Prov.Banten 2017-2018 Genap"
     },
     "series": [
       {
@@ -38,13 +38,13 @@
       "semester": "Genap",
       "tingkat": "SD",
       "group": "Jumlah",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Total Pegawai SD Prov.Banten 2017-2018 Genap"
     },
     "series": [
       {
         "data": [
           {
-            "value": 263,
+            "value": 2630,
             "name": "Jumlah"
           },
           {
@@ -68,7 +68,7 @@
       "semester": "Genap",
       "tingkat": "SMP",
       "group": "Jumlah",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Total Pegawai SMP Prov.Banten 2017-2018 Genap"
     },
     "series": [
       {
@@ -98,7 +98,7 @@
       "semester": "Genap",
       "tingkat": "SMA",
       "group": "Jumlah",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Total Pegawai SMA Prov.Banten 2017-2018 Genap"
     },
     "series": [
       {
@@ -128,7 +128,7 @@
       "semester": "Genap",
       "tingkat": "SMK",
       "group": "Jumlah",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Total Pegawai SMK Prov.Banten 2017-2018 Genap"
     },
     "series": [
       {
@@ -158,7 +158,7 @@
       "semester": "Genap",
       "tingkat": "SLB",
       "group": "Jumlah",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Total Pegawai SLB Prov.Banten 2017-2018 Genap"
     },
     "series": [
       {
