@@ -85,7 +85,7 @@ children: [
     {
 			path: '/admin/dashboard/dd-pegawai',
 			components: {
-				main: resolve => require(['./components/bantenprov/dd-pegawai/DDPegawaiAdmin.show.vue'], resolve),
+				main: resolve => require(['./components/bantenprov/dd-pegawai/DDPegawaiAdmin.view.vue'], resolve),
 				navbar: resolve => require(['./components/Navbar.vue'], resolve),
 				sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
 			},
@@ -147,7 +147,7 @@ Vue.component('echarts-dd-pegawai-kota', DDPegawaiKota);
 import DDPegawaiTahun from './components/bantenprov/dd-pegawai/DDPegawaiTahun.chart.vue';
 Vue.component('echarts-dd-pegawai-tahun', DDPegawaiTahun);
 
-import DDPegawaiAdminShow from './components/bantenprov/dd-pegawai/DDPegawaiAdmin.show.vue';
+import DDPegawaiAdminShow from './components/bantenprov/dd-pegawai/DDPegawaiAdmin.view.vue';
 Vue.component('admin-view-dd-pegawai-tahun', DDPegawaiAdminShow);
 
 //== Echarts DD Pegawai

@@ -2,7 +2,7 @@
   {
     "xAxis": {
       "category": "Total",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Total Pegawai Kab.Tangerang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -24,7 +24,7 @@
   {
     "xAxis": {
       "category": "Total",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Total Pegawai Kab.Lebak 2017-2018 ",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -46,7 +46,7 @@
   {
     "xAxis": {
       "category": "Total",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Total Pegawai Kab.Serang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -68,7 +68,7 @@
   {
     "xAxis": {
       "category": "Total",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Total Pegawai Kab.Pandeglang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -90,7 +90,7 @@
   {
     "xAxis": {
       "category": "Total",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Total Pegawai Kota Tangerang 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -112,7 +112,7 @@
   {
     "xAxis": {
       "category": "Total",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Total Pegawai Kota Tangerang Selatan 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -134,7 +134,7 @@
   {
     "xAxis": {
       "category": "Total",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Total Pegawai Kota Serang 2017-2018 ",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -156,7 +156,7 @@
   {
     "xAxis": {
       "category": "Total",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Total Pegawai Kota Cilegon  2017-2018 ",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -178,7 +178,7 @@
   {
     "xAxis": {
       "category": "SD",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SD Kab.Tangerang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -200,7 +200,7 @@
   {
     "xAxis": {
       "category": "SD",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SD Kab.Lebak 2017-2018 ",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -222,7 +222,7 @@
   {
     "xAxis": {
       "category": "SD",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SD Kab.Serang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -244,7 +244,7 @@
   {
     "xAxis": {
       "category": "SD",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SD Kab.Pandeglang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -266,7 +266,7 @@
   {
     "xAxis": {
       "category": "SD",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SD Kota Tangerang 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -288,7 +288,7 @@
   {
     "xAxis": {
       "category": "SD",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SD Tangerang Selatan 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -310,7 +310,7 @@
   {
     "xAxis": {
       "category": "SD",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SD Kota Serang 2017-2018 ",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -332,7 +332,7 @@
   {
     "xAxis": {
       "category": "SD",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SD Kota Cilegon 2017-2018 ",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -354,7 +354,7 @@
   {
     "xAxis": {
       "category": "SMP",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMP Kab.Tangerang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -376,7 +376,7 @@
   {
     "xAxis": {
       "category": "SMP",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai Kab.Lebak 2017-2018 ",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -398,7 +398,7 @@
   {
     "xAxis": {
       "category": "SMP",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMP Kab.Serang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -420,7 +420,7 @@
   {
     "xAxis": {
       "category": "SMP",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMP Kab.Pandeglang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -442,7 +442,7 @@
   {
     "xAxis": {
       "category": "SMP",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMP Kota Tangerang 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -464,7 +464,7 @@
   {
     "xAxis": {
       "category": "SMP",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMP Kota Tangerang Selatan 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -486,7 +486,7 @@
   {
     "xAxis": {
       "category": "SMP",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMP Kota Serang 2017-2018 ",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -508,7 +508,7 @@
   {
     "xAxis": {
       "category": "SMP",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMP Kota Cilegon 2017-2018 ",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -530,7 +530,7 @@
   {
     "xAxis": {
       "category": "SMA",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMA Kab.Tangerang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -552,7 +552,7 @@
   {
     "xAxis": {
       "category": "SMA",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMA Kab.Lebak 2017-2018 ",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -574,7 +574,7 @@
   {
     "xAxis": {
       "category": "SMA",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMA Kab.Serang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -596,7 +596,7 @@
   {
     "xAxis": {
       "category": "SMA",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMA Kab.Pandeglang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -618,7 +618,7 @@
   {
     "xAxis": {
       "category": "SMA",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMA Kota Tangerang 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -640,7 +640,7 @@
   {
     "xAxis": {
       "category": "SMA",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMA Kota Tangerang Selatan 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -662,7 +662,7 @@
   {
     "xAxis": {
       "category": "SMA",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMA Kota Serang 2017-2018 ",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -684,7 +684,7 @@
   {
     "xAxis": {
       "category": "SMA",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMA Kota Cilegon 2017-2018 ",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -706,7 +706,7 @@
   {
     "xAxis": {
       "category": "SMK",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMK Kab.Tangerang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -728,7 +728,7 @@
   {
     "xAxis": {
       "category": "SMK",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMK Kab.Lebak 2017-2018 ",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -750,7 +750,7 @@
   {
     "xAxis": {
       "category": "SMK",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMK Kab.Serang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -772,7 +772,7 @@
   {
     "xAxis": {
       "category": "SMK",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMK Kab.Pandeglang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -794,7 +794,7 @@
   {
     "xAxis": {
       "category": "SMK",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMK Kota Tangerang 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -816,7 +816,7 @@
   {
     "xAxis": {
       "category": "SMK",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMK Kota Tangerang Selatan 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -838,7 +838,7 @@
   {
     "xAxis": {
       "category": "SMK",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMK Kota Serang 2017-2018 ",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -860,7 +860,7 @@
   {
     "xAxis": {
       "category": "SMK",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SMK Cilegon 2017-2018 ",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -882,7 +882,7 @@
   {
     "xAxis": {
       "category": "SLB",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SLB Kab.Tangerang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -904,7 +904,7 @@
   {
     "xAxis": {
       "category": "SLB",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SLB Kab.Lebak 2017-2018 ",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -926,7 +926,7 @@
   {
     "xAxis": {
       "category": "SLB",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SLB Kab.Serang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -948,7 +948,7 @@
   {
     "xAxis": {
       "category": "SLB",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SLB kab.Pandeglang 2017-2018 ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -970,7 +970,7 @@
   {
     "xAxis": {
       "category": "SLB",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SLB Kota Tangerang 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -992,7 +992,7 @@
   {
     "xAxis": {
       "category": "SLB",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SLB Kota Tangerang Selatan 2017-2018 ",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -1014,7 +1014,7 @@
   {
     "xAxis": {
       "category": "SLB",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SLB Kota Serang 2017-2018 ",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -1036,7 +1036,7 @@
   {
     "xAxis": {
       "category": "SLB",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap",
+      "title": "Jumlah Pegawai SLB Kota Cilegon 2017-2018 ",
       "region": "Kota",
       "name": "Cilegon",
       "data": [

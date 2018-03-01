@@ -5,10 +5,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "Total",
       "group": "Jumlah",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Total Pegawai"
     },
     "series": [
       {
@@ -55,10 +55,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "Total",
       "group": "Laki-laki",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Total Pegawai Laki-laki"
     },
     "series": [
       {
@@ -105,10 +105,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "Total",
       "group": "Perempuan",
-      "title": "Total Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Total Pegawai Perempuan"
     },
     "series": [
       {
@@ -155,10 +155,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SD",
       "group": "Jumlah",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SD"
     },
     "series": [
       {
@@ -205,10 +205,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SD",
       "group": "Laki-laki",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai Laki-Laki SD"
     },
     "series": [
       {
@@ -255,10 +255,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SD",
       "group": "Perempuan",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai Perempuan SD"
     },
     "series": [
       {
@@ -305,10 +305,9 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
       "tingkat": "SMP",
       "group": "Jumlah",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SMP"
     },
     "series": [
       {
@@ -355,10 +354,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SMP",
       "group": "Laki-laki",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SMP Laki-Laki "
     },
     "series": [
       {
@@ -405,10 +404,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SMP",
       "group": "Perempuan",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SMP Perempuan"
     },
     "series": [
       {
@@ -455,10 +454,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SMA",
       "group": "Jumlah",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SMA"
     },
     "series": [
       {
@@ -505,10 +504,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SMA",
       "group": "Laki-laki",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SMA Laki-Laki"
     },
     "series": [
       {
@@ -555,10 +554,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SMA",
       "group": "Perempuan",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SMA Perempuan"
     },
     "series": [
       {
@@ -605,10 +604,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SMK",
       "group": "Jumlah",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SMK "
     },
     "series": [
       {
@@ -655,10 +654,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SMK",
       "group": "Laki-laki",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SMK Laki-Laki"
     },
     "series": [
       {
@@ -705,10 +704,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SMK",
       "group": "Perempuan",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SMK Perempuan"
     },
     "series": [
       {
@@ -755,10 +754,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SLB",
       "group": "Jumlah",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SLB "
     },
     "series": [
       {
@@ -805,10 +804,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SLB",
       "group": "Laki-laki",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SLB Laki-Laki"
     },
     "series": [
       {
@@ -855,10 +854,10 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
-      "semester": "Genap",
+      "semester": "",
       "tingkat": "SLB",
       "group": "Perempuan",
-      "title": "Jumlah Pegawai Provinsi Banten 2017-2018 Genap"
+      "title": "Jumlah Pegawai SLB Perempuan"
     },
     "series": [
       {
